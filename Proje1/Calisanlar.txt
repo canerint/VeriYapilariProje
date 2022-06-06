@@ -1,0 +1,9 @@
+Isim: caner Soyisim: int Maas: 15000
+Isim: caner Soyisim: int1 Maas: 20000
+Isim: caner Soyisim: int2 Maas: 10000
+Isim: caner Soyisim: int3 Maas: 7000
+Isim: caner Soyisim: int4 Maas: 2000
+Isim: caner Soyisim: int5 Maas: 30000
+Isim: caner Soyisim: int6 Maas: 25000
+Isim: caner Soyisim: int7 Maas: 13000
+
